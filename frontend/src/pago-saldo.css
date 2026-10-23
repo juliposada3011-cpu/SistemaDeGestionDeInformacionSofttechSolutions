@@ -1,0 +1,12 @@
+.pago-saldo {
+  display: block;
+  margin-top: 7px;
+  color: #596579;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.pago-saldo strong {
+  color: #4f46e5;
+  font-weight: 700;
+}
